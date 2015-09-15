@@ -29,7 +29,7 @@
 
 ### 三种适配方案（推荐方案 2 ）
 
-1. 固定宽度
+- 固定宽度
 
 固定宽度, `js` 动态修改 `viewport` 。
 
@@ -39,8 +39,8 @@
 
 优点：简单，粗暴，和pc页面一样的写，全是绝对定位。
 
-2. rem
+- rem
 
 [flexible](https://github.com/amfe/lib-flexible)
 
-3. flex
+- flex
