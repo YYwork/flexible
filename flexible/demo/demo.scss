@@ -1,0 +1,11 @@
+@import '../dpr-px.scss';
+$dpr: 64;
+h3 {
+  @include dpr-px(font-size, 36);
+  height: 50rem/$dpr;
+}
+
+p {
+  @include dpr-px(font-size, 26);
+  height: 200rem/$dpr;
+}
