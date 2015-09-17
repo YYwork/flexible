@@ -44,3 +44,5 @@
 [flexible](https://github.com/amfe/lib-flexible)
 
 - flex
+
+[flex](http://zh.learnlayout.com/flexbox.html)
